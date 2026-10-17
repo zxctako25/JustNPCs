@@ -9,7 +9,7 @@ Simple. Fast. No bloat.
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-1.16.5-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-8+-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
 </div>
 
