@@ -1,0 +1,7 @@
+name: JustNPCs
+version: '${version}'
+main: org.zxc_tako25.justnpcs.JustNPCs
+api-version: '1.16'
+depend: [packetevents]
+commands:
+  npc:
