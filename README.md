@@ -92,7 +92,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <div align="center">
 
-Made with  for the Minecraft community
 
  Star this repo if you like it!
 
