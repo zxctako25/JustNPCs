@@ -86,7 +86,7 @@ Found a bug or have an idea? [Open an issue](../../issues).
 
 ##  License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ---
 
